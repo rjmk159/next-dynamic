@@ -1,0 +1,10 @@
+name = "nextjs-blog"
+type = "webpack"
+route = '*'
+zone_id = 'bc3e3eb83c8e8d19689ad5d05bcec08c'
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+account_id = "2a6d4c33eb9a7d5b95a5e076bb12251d"
+site = {bucket = "./public" ,entry-point = "workers-site"}
+compatibility_date = "2022-01-04"
